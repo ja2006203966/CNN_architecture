@@ -1,0 +1,2 @@
+learning_rate,convk_1,convp_1,pooling_1,convk_2,convp_2,convk_3,convp_3,units_1,Dropout_1,units_2,Dropout_2
+0.0004,4,200,3,1,248,2,192,320,0.3,96,0.1
